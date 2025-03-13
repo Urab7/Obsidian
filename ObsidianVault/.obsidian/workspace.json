@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "948cec424db3fd71",
+    "type": "split",
+    "children": [
+      {
+        "id": "d37d5aaeb728d9a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68f7d9232908f72b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/AI问答/害怕眼神接触.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "害怕眼神接触"
+            }
+          },
+          {
+            "id": "9dde327c6f868899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/markdown/MarkDown超级教程 Obsidian版 2022.1.12(1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MarkDown超级教程 Obsidian版 2022.1.12(1)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e782050f2b2d469",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f9464c8ca10a4ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54e32b7e3bf86a09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cdadbc9abe23f41d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b267fbf5adcec3db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84c80405a208330f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a44750ccc08fd2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2fa6b24467e80a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Course/大二下/计算机网络：自顶向下方法（原书第8版） ([美]詹姆斯·F.库罗斯, [美]基思·W.罗斯, 陈鸣) (Z-Library).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "计算机网络：自顶向下方法（原书第8版） ([美]詹姆斯·F.库罗斯, [美]基思·W.罗斯, 陈鸣) (Z-Library) 的反向链接列表"
+            }
+          },
+          {
+            "id": "dc592441014b3b66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Course/大二下/计算机网络：自顶向下方法（原书第8版） ([美]詹姆斯·F.库罗斯, [美]基思·W.罗斯, 陈鸣) (Z-Library).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "计算机网络：自顶向下方法（原书第8版） ([美]詹姆斯·F.库罗斯, [美]基思·W.罗斯, 陈鸣) (Z-Library) 的出链列表"
+            }
+          },
+          {
+            "id": "dfb9d132b5a03b88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "dbc16645c44c90d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Writing/AI问答/害怕眼神接触.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "害怕眼神接触 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "68f7d9232908f72b",
+  "lastOpenFiles": [
+    "Writing/知乎/精神内耗.md",
+    "Writing/AI问答/害怕眼神接触.md",
+    "Writing/AI问答",
+    "Learning/markdown/MarkDown超级教程 Obsidian版 2022.1.12(1).md",
+    "未命名.md",
+    "Writing/知乎",
+    "Writing",
+    "Course/大二下/[OCR]_计算机网络：自顶向下方法（原书第8版） ([美]詹姆斯·F.库罗斯, [美]基思·W.罗斯, 陈鸣) (Z-Library)_20250311_1624.layered.pdf",
+    "Course/大二下/计算机网络笔记.md",
+    "_计算机网络：自顶向下方法（原书第8版） ([美]詹姆斯·F.库罗斯, [美]基思·W.罗斯, 陈鸣) (Z-Library)_20250311_1624.layered.pdf.md",
+    "Course/大二下/计算机网络：自顶向下方法（原书第8版） ([美]詹姆斯·F.库罗斯, [美]基思·W.罗斯, 陈鸣) (Z-Library).pdf",
+    "Course/大二下/~$机网络：自顶向下方法（原书第8版） ([美]詹姆斯·F.库罗斯, [美]基思·W.罗斯, 陈鸣) (Z-Library).docx",
+    "Course/大二下/计算机网络：自顶向下方法（原书第8版） ([美]詹姆斯·F.库罗斯, [美]基思·W.罗斯, 陈鸣) (Z-Library).docx",
+    "计算机网络：自顶向下方法（原书第8版） ([美]詹姆斯·F.库罗斯, [美]基思·W.罗斯, 陈鸣) (Z-Library) 1.docx",
+    "计算机网络：自顶向下方法（原书第8版） ([美]詹姆斯·F.库罗斯, [美]基思·W.罗斯, 陈鸣) (Z-Library).docx",
+    "未命名思维导图.md",
+    "Learning/markdown/markdown语法.md",
+    "Excalidraw/Drawing 2025-03-10 17.37.10.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-10 17.38.04.excalidraw.md",
+    "Excalidraw",
+    "Z_assets/Pasted image 20250309160929.png",
+    "Z_assets/Pasted image 20250309154747.png",
+    "Z_assets/Pasted image 20250309155200.png",
+    "Z_assets/Pasted image 20250309155056.png"
+  ]
+}
